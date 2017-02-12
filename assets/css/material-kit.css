@@ -419,8 +419,8 @@ fieldset[disabled][disabled] .btn, .btn.disabled, .btn:disabled, .btn[disabled][
 .btn-group-vertical.disabled,
 .btn-group-vertical:disabled,
 .btn-group-vertical[disabled][disabled] {
-  color: rgba(0, 0, 0, 0.26);
-  background: transparent;
+  color: rgba(255, 252, 252, 0.97);
+  background: #4caf50;
 }
 .theme-dark fieldset[disabled][disabled] .btn, .theme-dark .btn.disabled, .theme-dark .btn:disabled, .theme-dark .btn[disabled][disabled], .theme-dark fieldset[disabled][disabled]
 .input-group-btn .btn, .theme-dark
